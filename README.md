@@ -1,1 +1,1 @@
-# gitTorial
+# gitTutorial
